@@ -1,0 +1,6 @@
+name: Sparky
+version: 0.2
+main: me.jumba.sparky.Sparky
+commands:
+  sparky:
+  forcebot:
