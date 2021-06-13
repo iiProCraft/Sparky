@@ -7,8 +7,8 @@ public class Sparky extends JavaPlugin {
   @Override
   public void onEnable() {
     /*
-    * https://www.youtube.com/watch?v=IO9XlQrEt2Y
-    * watch this video first :)
+    * https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    * tutorial how to find the code
     /*
   }
 
