@@ -8,8 +8,12 @@ public class Sparky extends JavaPlugin {
   public void onEnable() {
     /*
     * https://www.youtube.com/watch?v=dQw4w9WgXcQ
-    /*
+    */
     loadChecks();
+  }
+  
+  private void loadChecks() {
+    // still not ready yet
   }
 
 }
